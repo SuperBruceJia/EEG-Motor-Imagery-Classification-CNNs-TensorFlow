@@ -7,15 +7,15 @@
 ### Download Paper
 [A novel approach of decoding EEG four-class motor imagery tasks via scout ESI and CNN](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6/meta)
 
-NOTICE: The method in our paper is EEG source imaging (ESI) + Morlet wavelet joint time-frequency analysis (JTFA) + Convolutional Neural Networks (CNNs). The raw data has been processed using the Matlab Toolkit [Brainstorm](https://neuroimage.usc.edu/brainstorm/). My job is using CNNs to classify the EEG data after the ESI + JTFA process. The Dataset (.mat Files) preprocessed via the ESI + JTFA process can be found via the [Shared Google Drive](https://drive.google.com/drive/folders/1go7_ba_JNG4shob9MJ826gKY8sDSw3jJ?usp=sharing). The corresponding preprocessed .Excel files can be downloaded from the [Shared Google Drive](https://drive.google.com/drive/folders/18bMOLP0ENA5RK1gBuO78IYGXm_PupsCW?usp=sharing).
+NOTICE: The method in our paper is EEG source imaging (ESI) + Morlet wavelet joint time-frequency analysis (JTFA) + Convolutional Neural Networks (CNNs). The raw data has been processed using the Matlab Toolkit [Brainstorm](https://neuroimage.usc.edu/brainstorm/). My job is using CNNs to classify the EEG data after the ESI + JTFA process. The Dataset (.mat Files) preprocessed via the ESI + JTFA process can be found via the [Shared Google Drive](https://drive.google.com/drive/folders/1go7_ba_JNG4shob9MJ826gKY8sDSw3jJ?usp=sharing). The corresponding preprocessed Excel files can be downloaded from the [Shared Google Drive](https://drive.google.com/drive/folders/18bMOLP0ENA5RK1gBuO78IYGXm_PupsCW?usp=sharing).
 
-Meanwhile, the codes in this repository are based on the raw EEG data without the ESI and JTFA process, and can also achieve a good result. The main CNNs Tensorflow framework codes in the "MI_Proposed_CNNs_Architecture.py" are the same for both of the work.
+Meanwhile, the codes in this repository are based on the raw EEG data without the ESI and JTFA process, and can also achieve a good result. The main CNNs Tensorflow framework codes in the "MI_Proposed_CNNs_Architecture.py" are the same for both of the works.
 
 ---
 
 <div>
     <div style="text-align:center">
-    <img width=99%device-width src="https://github.com/SuperBruceJia/SuperBruceJia.github.io/raw/master/imgs/Picture2.png" alt="Project2">
+    <img width=99%device-width src="https://github.com/SuperBruceJia/SuperBruceJia.github.io/raw/master/imgs/Picture1.png" alt="Project1">
 </div>
 
 ---
