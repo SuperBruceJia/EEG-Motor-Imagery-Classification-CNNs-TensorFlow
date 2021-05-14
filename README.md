@@ -15,7 +15,7 @@ Meanwhile, the codes in this repository are based on the raw EEG data without th
 
 <div>
     <div style="text-align:center">
-    <img width=99%device-width src="https://raw.githubusercontent.com/SuperBruceJia/SuperBruceJia.github.io/master/imgs/Picture1.jpg?token=AHQRNHF3GU3HHYQM6VTHX5TARYBSA" alt="Project1">
+    <img width=99%device-width src="https://github.com/SuperBruceJia/SuperBruceJia.github.io/raw/master/imgs/Picture1.jpg" alt="Project1">
 </div>
 
 ---
