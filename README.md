@@ -77,17 +77,16 @@ At the root of the project, you will see:
 If you find our work useful in your research, please consider citing in your publications. We provide a BibTeX entry below.
 
 ```
-@article{hou2019novel,  
-    year = 2020,  
-    month = {feb},  
-    publisher = {{IOP} Publishing},  
-    volume = {17},  
-    number = {1},  
-    pages = {016048},  
-    author = {Yimin Hou and Lu Zhou and Shuyue Jia and Xiangmin Lun},  
-    title = {A novel approach of decoding {EEG} four-class motor imagery tasks via scout {ESI} and {CNN}},  
-    journal = {Journal of Neural Engineering}  
-}  
+@article{hou2020novel,
+	title={A novel approach of decoding EEG four-class motor imagery tasks via scout ESI and CNN},
+	author={Hou, Yimin and Zhou, Lu and Jia, Shuyue and Lun, Xiangmin},
+	journal={Journal of neural engineering},
+	volume={17},
+	number={1},
+	pages={016048},
+	year={Feb. 2020},
+	publisher={IOP Publishing}
+}
 ```
 
 ### Acknowledgment
