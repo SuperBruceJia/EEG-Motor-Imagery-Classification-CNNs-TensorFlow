@@ -92,5 +92,5 @@ If you find our work useful in your research, please consider citing in your pub
 ### Acknowledgment
 
 We are very grateful to Prof. Yimin Hou due to his friendly guidance, and the research paper would not have happened without him.<br>
-<a href="http://www.neepu.edu.cn/"> <img width="150" height="150" src="https://github.com/SuperBruceJia/EEG-DL/raw/master/NEEPU.png"></a>
+<a href="http://www.neepu.edu.cn/"> <img width="500" height="150" src="https://github.com/SuperBruceJia/EEG-DL/raw/master/NEEPU.png"></a>
 
