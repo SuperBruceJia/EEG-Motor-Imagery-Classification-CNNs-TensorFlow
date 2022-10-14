@@ -78,9 +78,9 @@ If you find our work useful in your research, please consider citing in your pub
 
 ```
 @article{hou2020novel,
-	title={A novel approach of decoding EEG four-class motor imagery tasks via scout ESI and CNN},
+	title={A Novel Approach of Decoding EEG Four-class Motor Imagery Tasks via Scout ESI and CNN},
 	author={Hou, Yimin and Zhou, Lu and Jia, Shuyue and Lun, Xiangmin},
-	journal={Journal of neural engineering},
+	journal={Journal of Neural Engineering},
 	volume={17},
 	number={1},
 	pages={016048},
