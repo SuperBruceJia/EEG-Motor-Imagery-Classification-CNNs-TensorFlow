@@ -1,11 +1,12 @@
 ## EEG Motor Imagery Signals (Tasks) Classification via Convolutional Neural Networks (CNN)
 
-**Author**: Shuyue Jia, Northeast Electric Power University, China.
+**Author**: Shuyue Jia and Lu Zhou, School of Automation Engineering, Northeast Electric Power University, Jilin, China.
 
 **Date**: December of 2018
 
 ### Download Paper
-[A novel approach of decoding EEG four-class motor imagery tasks via scout ESI and CNN](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6/meta)
+
+[A Novel Approach of Decoding EEG Four-class Motor Imagery Tasks via Scout ESI and CNN](https://iopscience.iop.org/article/10.1088/1741-2552/ab4af6/meta)
 
 NOTICE: The method in our paper is EEG source imaging (ESI) + Morlet wavelet joint time-frequency analysis (JTFA) + Convolutional Neural Networks (CNNs). The raw data has been processed using the Matlab Toolkit [Brainstorm](https://neuroimage.usc.edu/brainstorm/). My job is using CNNs to classify the EEG data after the ESI + JTFA process. The Dataset (.mat Files) preprocessed via the ESI + JTFA process can be found via the [Shared Google Drive](https://drive.google.com/drive/folders/1go7_ba_JNG4shob9MJ826gKY8sDSw3jJ?usp=sharing). The corresponding preprocessed Excel files can be downloaded from the [Shared Google Drive](https://drive.google.com/drive/folders/18bMOLP0ENA5RK1gBuO78IYGXm_PupsCW?usp=sharing).
 
@@ -93,4 +94,3 @@ If you find our work useful in your research, please consider citing in your pub
 
 We are very grateful to Prof. Yimin Hou due to his friendly guidance, and the research paper would not have happened without him.<br>
 <a href="http://www.neepu.edu.cn/"> <img width="500" height="150" src="https://github.com/SuperBruceJia/EEG-DL/raw/master/NEEPU.png"></a>
-
