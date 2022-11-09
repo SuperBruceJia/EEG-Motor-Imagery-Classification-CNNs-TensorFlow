@@ -14,9 +14,20 @@ Meanwhile, the codes in this repository are based on the raw EEG data without th
 
 ---
 
+**Overall Framework**:
+
 <div>
     <div style="text-align:center">
-    <img width=99%device-width src="https://github.com/SuperBruceJia/SuperBruceJia.github.io/raw/master/imgs/Picture1.jpg" alt="Project1">
+    <img width=80%device-width src="https://user-images.githubusercontent.com/31528604/200734796-d25a8fd4-74de-4170-b64b-f76a6e4b7fa5.png" alt="Project1">
+</div>
+
+---
+
+**Proposed CNN Architecture**:
+
+<div>
+    <div style="text-align:center">
+    <img width=60%device-width src="https://user-images.githubusercontent.com/31528604/200735002-d68b05f5-547a-4c8f-a615-5eb234494534.png" alt="Project1">
 </div>
 
 ---
