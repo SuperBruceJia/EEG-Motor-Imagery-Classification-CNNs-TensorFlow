@@ -25,7 +25,7 @@ Meanwhile, the codes in this repository are based on the raw EEG data without th
 
 <div>
     <div style="text-align:center">
-    <img width=60%device-width src="https://user-images.githubusercontent.com/31528604/200832532-4a2df39e-fc75-4586-b00f-2225df4d3b29.jpg" alt="Project1">
+    <img width=60%device-width src="https://user-images.githubusercontent.com/31528604/200834151-647319e6-9f6c-428b-b763-36d8859acab9.png" alt="Project1">
 </div>
 
 ---
