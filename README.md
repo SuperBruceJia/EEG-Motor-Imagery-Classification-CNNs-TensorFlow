@@ -18,16 +18,14 @@ Meanwhile, the codes in this repository are based on the raw EEG data without th
 
 <div>
     <div style="text-align:center">
-    <img width=80%device-width src="https://user-images.githubusercontent.com/31528604/200734796-d25a8fd4-74de-4170-b64b-f76a6e4b7fa5.png" alt="Project1">
+    <img width=100%device-width src="https://user-images.githubusercontent.com/31528604/200832194-ea4198f4-e732-436c-bdec-6e454341c442.png" alt="Project1">
 </div>
 
----
-
-**Proposed CNN Architecture**:
+**Proposed CNNs Architecture**:
 
 <div>
     <div style="text-align:center">
-    <img width=60%device-width src="https://user-images.githubusercontent.com/31528604/200735002-d68b05f5-547a-4c8f-a615-5eb234494534.png" alt="Project1">
+    <img width=60%device-width src="https://user-images.githubusercontent.com/31528604/200832532-4a2df39e-fc75-4586-b00f-2225df4d3b29.jpg" alt="Project1">
 </div>
 
 ---
