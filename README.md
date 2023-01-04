@@ -84,18 +84,18 @@ At the root of the project, you will see:
 ```
 
 ### Citation
-If you find our work useful in your research, please consider citing in your publications. We provide a BibTeX entry below.
+If you find our work useful in your research, please consider citing it in your publications. We provide a BibTeX entry below.
 
 ```
 @article{hou2020novel,
-	title={A Novel Approach of Decoding EEG Four-class Motor Imagery Tasks via Scout ESI and CNN},
-	author={Hou, Yimin and Zhou, Lu and Jia, Shuyue and Lun, Xiangmin},
-	journal={Journal of Neural Engineering},
-	volume={17},
-	number={1},
-	pages={016048},
-	year={Feb. 2020},
-	publisher={IOP Publishing}
+	title     = {A Novel Approach of Decoding EEG Four-class Motor Imagery Tasks via Scout ESI and CNN},
+	author    = {Hou, Yimin and Zhou, Lu and Jia, Shuyue and Lun, Xiangmin},
+	journal   = {Journal of Neural Engineering},
+	volume    = {17},
+	number    = {1},
+	pages     = {016048},
+	year      = {Feb. 2020},
+	publisher = {IOP Publishing}
 }
 ```
 
