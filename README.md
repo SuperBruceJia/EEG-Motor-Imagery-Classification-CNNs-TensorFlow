@@ -86,7 +86,7 @@ At the root of the project, you will see:
 ### Citation
 If you find our work useful in your research, please consider citing it in your publications. We provide a BibTeX entry below.
 
-```
+```bibtex
 @article{hou2020novel,
 	title     = {A Novel Approach of Decoding EEG Four-class Motor Imagery Tasks via Scout ESI and CNN},
 	author    = {Hou, Yimin and Zhou, Lu and Jia, Shuyue and Lun, Xiangmin},
